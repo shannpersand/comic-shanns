@@ -13,6 +13,13 @@ Like if someone made a dumbass version of Comic Sans that is monospaced.
 
 ## What's in it?
 `ABCDEFGHIJKLMNOPQRSTUVWXYZ`
+
 `abcdefghijklmnopqrstuvwxyz`
+
 `1234567890`
+
 `~!@#$%^&*()-—+=;:"'<>,.?/\|`
+
+---
+### I need help with it...
+File an issue, we'll see.
