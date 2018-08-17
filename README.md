@@ -18,7 +18,7 @@ Like if someone made a dumbass version of Comic Sans that is monospaced.
 
 `1234567890`
 
-`~!@#$%^&*()-—+=;:"'<>,.?/\|`
+`~!@#$%^&*()-—+=;:"'<>,.?/\|[]{}?`
 
 ---
 ### I need help with it...
