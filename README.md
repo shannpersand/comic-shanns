@@ -23,3 +23,6 @@ Like if someone made a dumbass version of Comic Sans that is monospaced.
 ---
 ### I need help with it...
 File an issue, we'll see.
+
+### License
+It is licensed under the MIT License.
