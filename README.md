@@ -1,6 +1,12 @@
 # What it is
 A classy font.
 
+### Update 2020
+- Added terrible accents
+- Some math characters
+- Adjusted horizontal metrics
+- otf and ttf version
+
 ## Usage
 You can download it and install it like any other font.
 
@@ -19,6 +25,8 @@ Like if someone made a dumbass version of Comic Sans that is monospaced.
 `1234567890`
 
 `~!@#$%^&*()-—+=;:"'<>,.?/\|[]{}?`
+
+AND NOW WITH TERRIBLE DIACRITICS! And some math stuff!
 
 ---
 ### I need help with it...
