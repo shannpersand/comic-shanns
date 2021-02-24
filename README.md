@@ -1,7 +1,8 @@
 # What it is
-A classy font.
 
-### Update 2020
+Are you the kind of person that uses Comic Sans in presentations? Do you lie awake every night dreaming about a world where you could write your code in Comic Sans where it looks just as beautiful as on your dear presentations? Wait no more! I present to you **Comic Shanns**! The Comic Sans inspired monospaced font that's coming to a terminal or editor near you!
+
+## Update 2020
 - Added terrible accents
 - Some math characters
 - Adjusted horizontal metrics
