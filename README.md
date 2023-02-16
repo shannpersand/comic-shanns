@@ -2,6 +2,9 @@
 
 Are you the kind of person that uses Comic Sans in presentations? Do you lie awake every night dreaming about a world where you could write your code in Comic Sans where it looks just as beautiful as on your dear presentations? Wait no more! I present to you **Comic Shanns**! The Comic Sans inspired monospaced font that's coming to a terminal or editor near you!
 
+## Update 2023-02
+- Added Braille characters (⢩ ⢪ ⢫ ⢬ ⢯ ⢿ ⣁ ⣂ ⣃ ⣇ ⠿ ⠾ ⠪⠘), usually used for progress indicators in terminals.
+
 ## Update 2023-01
 - Added simple (badly drawn) box drawing characters.
 - Removed obsolete versions. Updating the Condensed version is still in consideration.
