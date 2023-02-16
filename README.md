@@ -6,7 +6,7 @@ Are you the kind of person that uses Comic Sans in presentations? Do you lie awa
 - Added Braille characters (⢩ ⢪ ⢫ ⢬ ⢯ ⢿ ⣁ ⣂ ⣃ ⣇ ⠿ ⠾ ⠪⠘), usually used for progress indicators in terminals.
 
 ## Update 2023-01
-- Added simple (badly drawn) box drawing characters.
+- Added simple box drawing characters.
 - Removed obsolete versions. Updating the Condensed version is still in consideration.
 - Completely separating this fork from the original from now on.
 
