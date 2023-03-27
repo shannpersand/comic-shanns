@@ -3,8 +3,8 @@ FontName: ComicShannsMono-Regular
 FullName: Comic Shanns Mono Regular
 FamilyName: Comic Shanns Mono-Regular
 Weight: Regular
-Copyright: MIT License\n\nCopyright (c) 2023 Jesus Gonzalez\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the "Software"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE
-Version: 1.2.0-jesusmgg
+Copyright: MIT License\n\nCopyright (c) 2018 Shannon Miwa\nCopyright (c) 2023 Jesus Gonzalez\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the "Software"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE.
+Version: 1.3.0
 ItalicAngle: 0
 UnderlinePosition: 0
 UnderlineWidth: 0
@@ -22,7 +22,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1608751085
-ModificationTime: 1679859674
+ModificationTime: 1679946301
 PfmFamily: 49
 TTFWeight: 400
 TTFWidth: 5
@@ -59,14 +59,14 @@ OS2CodePages: 00000093.00000000
 OS2UnicodeRanges: 00000007.00000000.00000000.00000000
 MarkAttachClasses: 1
 DEI: 91125
-LangName: 1033 "" "" "" "" "" "1.2.0-jesusmgg" "" "" "" "" "" "" "" "Copyright 2023 Jesus Gonzalez+AAoA-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the +ACIA-Software+ACIA), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:+AAoA-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.+AAoA-THE SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.+AAoACgAA" "" "" "Comic Shanns Mono"
+LangName: 1033 "" "" "" "" "" "1.3.0" "" "" "" "" "" "" "" "MIT License+AAoACgAA-Copyright (c) 2018 Shannon Miwa+AAoA-Copyright (c) 2023 Jesus Gonzalez+AAoACgAA-Permission is hereby granted, free of charge, to any person obtaining a copy+AAoA-of this software and associated documentation files (the +ACIA-Software+ACIA), to deal+AAoA-in the Software without restriction, including without limitation the rights+AAoA-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell+AAoA-copies of the Software, and to permit persons to whom the Software is+AAoA-furnished to do so, subject to the following conditions:+AAoACgAA-The above copyright notice and this permission notice shall be included in all+AAoA-copies or substantial portions of the Software.+AAoACgAA-THE SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR+AAoA-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,+AAoA-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE+AAoA-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER+AAoA-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,+AAoA-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE+AAoA-SOFTWARE." "" "" "Comic Shanns Mono"
 Encoding: UnicodeBmp
 UnicodeInterp: none
 NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 0 39 15
+WinInfo: 39 39 15
 BeginPrivate: 4
 BlueValues 32 [-37 -5 469 489 662 671 715 719]
 OtherBlues 11 [-278 -268]
@@ -29003,7 +29003,7 @@ VStem: 17.0083 498
 LayerCount: 2
 Fore
 SplineSet
-503.114257812 -6 m 0
+503.114257812 -6 m 0x60
  476.866210938 -2 354.930664062 -24 292.701171875 -17 c 0
  275.88671875 -15 240.827148438 13 233.581054688 53 c 0
  227.323942772 85.8312754704 221.210680506 152.502209358 213.138714486 234.859220825 c 1
@@ -29032,11 +29032,11 @@ SplineSet
  306.067908941 67.7582436516 306.453079395 66.5265572384 306.809847963 65.3053873463 c 0
  337.673592362 58.5607559847 463.686099414 69.5260164385 486.463867188 77 c 0
  518.016601562 87 526.168945312 56 528.66015625 38 c 0
- 530.74609375 18 525.56640625 -9 503.114257812 -6 c 0
+ 530.74609375 18 525.56640625 -9 503.114257812 -6 c 0x60
 205.574434179 309.988350329 m 1
  201.386438844 350.120628488 196.686944245 392.329045693 191.2890625 435 c 0
  185.748542644 479.32026838 182.568720144 511.241305669 180.281685854 537.555145273 c 1
- 163.841705327 481.630477911 147.901585646 388.224927063 126.928710938 297 c 1
+ 163.841705327 481.630477911 147.901585646 388.224927063 126.928710938 297 c 1xa0
  168.588475618 304.969288069 180.556633034 308.969229117 205.574434179 309.988350329 c 1
 EndSplineSet
 EndChar
@@ -29112,7 +29112,7 @@ EndChar
 StartChar: universal
 Encoding: 8704 8704 612
 Width: 550
-Flags: HW
+Flags: W
 LayerCount: 2
 Fore
 Refer: 34 65 N -1 0 0 -1 563.352 672.835 2
@@ -29121,7 +29121,7 @@ EndChar
 StartChar: existential
 Encoding: 8707 8707 613
 Width: 550
-Flags: HW
+Flags: W
 LayerCount: 2
 Fore
 Refer: 38 69 S -1 0 0 -1 541.904 639.739 2
@@ -29130,7 +29130,7 @@ EndChar
 StartChar: uni2204
 Encoding: 8708 8708 614
 Width: 550
-Flags: HW
+Flags: W
 LayerCount: 2
 Fore
 Refer: 38 69 S -1 0 0 -1 541.904 639.739 2
@@ -29140,9 +29140,9 @@ EndChar
 StartChar: oe
 Encoding: 339 339 615
 Width: 550
-Flags: HW
-HStem: -25 79 416 73<184.5 260>
-VStem: 9 96 344 94
+Flags: W
+HStem: -25.0334 78.8825<115.861 216.634 333.768 454.146> 416 73<122.08 217.128 355.573 440.612>
+VStem: 6.676 71.3558<95.653 357.081> 235.39 67.8713<249 290.256>
 LayerCount: 2
 Fore
 SplineSet
@@ -29228,7 +29228,9 @@ EndChar
 StartChar: uniA75B
 Encoding: 42843 42843 617
 Width: 550
-Flags: HW
+Flags: W
+HStem: -28.9916 84.6022<343.957 420.01> 415.008 85.9831<134.03 302.648>
+VStem: 378.008 85.9831<252.172 353.475>
 LayerCount: 2
 Fore
 SplineSet
